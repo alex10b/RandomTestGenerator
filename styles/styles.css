@@ -1,0 +1,13 @@
+*{
+    font-family: "Helvetica Neue";
+   
+}
+pre.inner{
+  word-wrap: normal;
+  width: auto;
+  overflow: auto;
+  font-family: "Helvetica Neue" !important;
+  font-size: 14px;
+  background-color: azure;
+
+}

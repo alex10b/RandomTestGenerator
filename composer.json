@@ -1,0 +1,12 @@
+{
+    "name": "alex/random-test",
+    "authors": [
+        {
+            "name": "Alex",
+            "email": "eborrayom1@miumg.edu.gt"
+        }
+    ],
+    "require": {
+        "phpoffice/phpword": "v0.13.*"
+    }
+}
