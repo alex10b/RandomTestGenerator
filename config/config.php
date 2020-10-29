@@ -1,7 +1,7 @@
 <?php
 function connect(){
 try {
-    $conexion = new PDO("mysql:host=localhost;dbname=id15257635_exambd","id15257635_root","~Hx}xV\L9H_?bL9T");
+    $conexion = new PDO("mysql:host=https://databases-auth.000webhost.com/;dbname=id15257635_exambd","id15257635_root","~Hx}xV\L9H_?bL9T");
     return $conexion;
 } catch (\Throwable $th) {
   return false;
